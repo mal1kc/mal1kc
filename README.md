@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **mal1kc/mal1kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi 👋 My name is Malik Kökçan
-=============================Computer Programmer-------------------I've been learning to code for 4 years.I started with C#,but then I learn python and i love it very much after i started learning C,C++,JavaScript,Dart for flutter and some python frameworks (like opencv).* 🌍  I'm based in Kocaeli,Turkey* 🧠  I'm learning Opencv,Flutter
+=============================
+
+Computer Programmer
+-------------------
+
+I've been learning to code for 4 years.I started with C#,but then I learn python and i love it very much after i started learning C,C++,JavaScript,Dart for flutter and some python frameworks (like opencv).* 🌍  I'm based in Kocaeli,Turkey* 🧠  I'm learning Opencv,Flutter
 
 ### Skills
 
@@ -33,3 +38,4 @@ Hi 👋 My name is Malik Kökçan
 <a href="http://www.github.com/mal1kc"><img src="https://activity-graph.herokuapp.com/graph?username=mal1kc&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/mal1kc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mal1kc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
