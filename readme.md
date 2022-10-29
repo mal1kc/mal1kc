@@ -20,7 +20,7 @@ hi 👋 my name is malik kökçan
 computer programmer
 -------------------
 
-i've been learning to code for 4 years.i started with c#,but then i learn python and i love it very much after i started learning c,c++,javascript,dart for flutter and some python frameworks (like opencv).* 🌍  i'm based in kocaeli,turkey* 🧠  i'm currently learning opencv,flutter
+i've been learning to code for 4 years.i started with c#,but then i learn python and i love it very much after i started learning c,c++,javascript,dart for flutter and some python frameworks (like opencv).* 🌍  i'm based in kocaeli,turkey* 🧠  i'm currently learning opencv,machine learning
 
 ### skills
 
