@@ -23,8 +23,8 @@ computer programmer
 + i've been learning to code for 4 years.i started with `c# (advanced beginner)`,but then i learn `python (advanced)` and i love it very much after 
 + then i started learn `c (intermediate)`,`c++ (advanced beginner)`.
 + then looked `javascript`,`dart` for a some time (beginner) with `flutter` and some python frameworks.
-+ 🌍  *i`m based in kocaeli,turkey* .
-+ 🧑‍🎓 *and i`m student in Kocaeli University (Computer Programming)*.
++ 🌍  *i'm based in kocaeli,turkey* .
++ 🧑‍🎓 *and i'm student in Kocaeli University (Computer Programming)*.
 + 🧠 i'm currently creating some projects, reinforcing `c`,`c++` knowledge
 
 ### skills
