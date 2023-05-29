@@ -24,7 +24,6 @@ computer programmer
 + then i started learn `c (intermediate)`,`c++ (advanced beginner)`.
 + then looked `javascript`,`dart` for a some time (beginner) with `flutter` and some python frameworks.
 + 🌍  *i'm based in kocaeli,turkey* .
-+ 🧑‍🎓 *and i'm student in Kocaeli University (Computer Programming)*.
 + 🧠 i'm currently creating some projects, reinforcing `c`,`c++` knowledge
 
 ### skills
