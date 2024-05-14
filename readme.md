@@ -24,7 +24,7 @@ computer programmer
 + then i started learn `c (intermediate)`,`c++ (advanced beginner)`.
 + then looked some python frameworks, `javascript`,`dart` for a some time (beginner) with `flutter` - i understood 'i am not a fan of mobile development' -.
 + 🌍  *i'm based in kocaeli,turkey* .
-+ 🧠 i'm currently creating some projects, reinforcing `c`,`c++` knowledge
++ 🧠 i'm currently experimenting/learning Zig via ziglings and exercism
 
 +     i am a daily user of linux with  Arch linux ( 2 +years )
 
