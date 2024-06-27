@@ -36,7 +36,7 @@ computer programmer
 
 ![](https://komarev.com/ghpvc/?username=mal1kc&color=blueviolet&style=flat-square)
 
-![mal1kc's GitHub stats](https://github-readme-stats.vercel.app/api?username=mal1kc&show_icons=true&theme=dark&hide_border=true)
+![mal1kc's GitHub stats](https://raw.githubusercontent.com/mal1kc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com?user=mal1kc&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mal1kc&layout=compact&theme=dark&hide_border=true)
+![](https://raw.githubusercontent.com/mal1kc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
