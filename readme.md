@@ -20,13 +20,12 @@ hi 👋 my name is malik kökçan
 computer programmer
 -------------------
 
-+ i've been learning to code for 4 years.i started with `c# (advanced beginner)`,but then i learn `python (advanced)` and i love it very much after 
-+ then i started learn `c (intermediate)`,`c++ (advanced beginner)`.
-+ then looked some python frameworks, `javascript`,`dart` for a some time (beginner) with `flutter` - i understood 'i am not a fan of mobile development' -.
-+ 🌍  *i'm based in kocaeli,turkey* .
-+ 🧠 i'm currently experimenting/learning Zig via ziglings and exercism
++ i've been learning to code for 4 years. started with `c# (advanced beginner)` ,but then learned `python (advanced)` and love it very much ,then started learn `c (intermediate)` ,`c++ (advanced beginner)` .then looked some python frameworks ,`javascript` ,`dart` for a some time (beginner) with `flutter` - understood 'not a fan of mobile development' - .
++ 🌍  *located in kocaeli,turkey* .
++ 🧠 currently experimenting/learning Zig via ziglings and exercism
++ have associate degree at computer programming from Kocaeli University
 
-+     i am a daily user of linux with  Arch linux ( 2 +years )
++     a daily user of linux with  Arch linux ( 2+ years )
 
 ### skills
 
