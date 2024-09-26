@@ -34,7 +34,7 @@ computer programmer
 ### my github stats
 
 ![](https://komarev.com/ghpvc/?username=mal1kc&color=blueviolet&style=flat-square)
-<img src="https://raw.githubusercontent.com/mal1kc/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/mal1kc/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 ![](https://github-readme-streak-stats.herokuapp.com?user=mal1kc&theme=dark&hide_border=true)
 
 ![](https://raw.githubusercontent.com/mal1kc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
