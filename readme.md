@@ -22,7 +22,7 @@ computer programmer
 
 + i've been learning to code for 4 years. started with `c# (advanced beginner)` ,but then learned `python (advanced)` and love it very much ,then started learn `c (intermediate)` ,`c++ (advanced beginner)` .then looked some python frameworks ,`javascript` ,`dart` for a some time (beginner) with `flutter` - understood 'not a fan of mobile development' - .
 + 🌍  *located in kocaeli,turkey* .
-+ 🧠 currently experimenting/learning Zig via ziglings and exercism
++ 🧠 currently searching job
 + have associate degree at computer programming from Kocaeli University
 
 +     a daily user of linux with  Arch linux ( 2+ years )
