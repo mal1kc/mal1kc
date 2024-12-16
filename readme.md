@@ -10,7 +10,7 @@ hi 👋 my name is malik kökçan
 
 + have associate degree at computer programming from Kocaeli University 📓
 
-+ ⚠️ 🐧 🤯 3️⃣ 〰️ 📆   a daily user of linux with  Arch linux ( ~3 years ) ⚠️
++ ⚠️ 🐧 🤯 3️⃣ 〰️ 📆   a daily user of linux with ![archlinux svg](https://archlinux.org/favicon.ico) Arch linux ( ~3 years ) ⚠️
 
 ### skills
 
