@@ -1,7 +1,9 @@
 <!--
 **mal1kc/mal1kc** is a ✨ _special_ ✨ repository because its `readme.md` (this file) appears on your github profile.
 -->
-hi 👋 my name is malik kökçan
+hi 👋 my name is malik
+<br>
+[![pgp](https://img.shields.io/badge/pgp-0xBE4EE9B6E67C1932-313131?style=flat&labelColor=545454&color=313131)](https://github.com/mal1kc.gpg) [![views](https://komarev.com/ghpvc/?username=mal1kc&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/mal1kc) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/The-Grindhouse/guidelines)
 =============================
 👨‍💻 a who enjoys coding ⚰️ 🫡
 -------------------
